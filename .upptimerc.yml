@@ -9,7 +9,9 @@ sites:
     url: https://zsp1.luzdelsur.com.pe/ofvirtual/
   - name: Plataforma Web
     url: https://ldsweb.luzdelsur.com.pe/Plataforma/PlataformaWeb
-
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+    
 assignees:
   - cesartaira86
 
