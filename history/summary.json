@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 61,
+    "timeDay": 82,
     "timeWeek": 102,
-    "timeMonth": 112,
+    "timeMonth": 102,
     "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
     "name": "LDS Oficina Virtual",
     "url": "https://zsp1.luzdelsur.com.pe/ofvirtual/",
-    "icon": "https://favicons.githubusercontent.com/zsp1.luzdelsur.com.pe",
+    "icon": "https://icons.duckduckgo.com/ip3/zsp1.luzdelsur.com.pe.ico",
     "slug": "lds-oficina-virtual",
     "status": "up",
     "uptime": "100.00%",
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 884,
-    "timeDay": 865,
-    "timeWeek": 876,
+    "timeDay": 864,
+    "timeWeek": 835,
     "timeMonth": 855,
     "timeYear": 884,
     "dailyMinutesDown": {}
@@ -38,7 +38,7 @@
   {
     "name": "Plataforma Web",
     "url": "https://ldsweb.luzdelsur.com.pe/Plataforma/PlataformaWeb",
-    "icon": "https://favicons.githubusercontent.com/ldsweb.luzdelsur.com.pe",
+    "icon": "https://icons.duckduckgo.com/ip3/ldsweb.luzdelsur.com.pe.ico",
     "slug": "plataforma-web",
     "status": "up",
     "uptime": "100.00%",
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 870,
-    "timeWeek": 1002,
-    "timeMonth": 931,
+    "timeDay": 693,
+    "timeWeek": 928,
+    "timeMonth": 926,
     "timeYear": 909,
     "dailyMinutesDown": {}
   }
