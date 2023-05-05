@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 101,
-    "timeWeek": 96,
+    "timeDay": 87,
+    "timeWeek": 93,
     "timeMonth": 89,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -22,18 +22,19 @@
     "url": "https://zsp1.luzdelsur.com.pe/ofvirtual/",
     "icon": "https://icons.duckduckgo.com/ip3/zsp1.luzdelsur.com.pe.ico",
     "slug": "lds-oficina-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 920,
-    "timeDay": 1580,
-    "timeWeek": 1065,
-    "timeMonth": 1190,
+    "timeDay": 1060,
+    "timeWeek": 1089,
+    "timeMonth": 1195,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2023-05-05": 0,
       "2023-01-25": 66,
       "2023-01-24": 36
     }
@@ -50,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 926,
-    "timeDay": 1403,
-    "timeWeek": 1029,
-    "timeMonth": 959,
+    "timeDay": 1133,
+    "timeWeek": 1059,
+    "timeMonth": 967,
     "timeYear": 922,
     "dailyMinutesDown": {}
   }
