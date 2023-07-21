@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 82,
-    "timeWeek": 134,
-    "timeMonth": 95,
-    "timeYear": 99,
-    "dailyMinutesDown": {}
+    "time": 96,
+    "timeDay": 322,
+    "timeWeek": 187,
+    "timeMonth": 110,
+    "timeYear": 101,
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "LDS Oficina Virtual",
