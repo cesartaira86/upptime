@@ -32,7 +32,7 @@
     "timeDay": 1053,
     "timeWeek": 1050,
     "timeMonth": 1001,
-    "timeYear": 1020,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2023-05-06": 76,
       "2023-05-05": 17
@@ -43,9 +43,9 @@
     "url": "https://ldsweb.luzdelsur.com.pe/Plataforma/PlataformaWeb",
     "icon": "https://icons.duckduckgo.com/ip3/ldsweb.luzdelsur.com.pe.ico",
     "slug": "plataforma-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 1067,
     "timeMonth": 998,
     "timeYear": 1022,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
   }
 ]
