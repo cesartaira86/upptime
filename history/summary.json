@@ -24,9 +24,9 @@
     "slug": "lds-oficina-virtual",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 989,
     "timeDay": 1316,
@@ -34,7 +34,6 @@
     "timeMonth": 1052,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2024-02-15": 8,
       "2023-05-06": 76,
       "2023-05-05": 17
     }
