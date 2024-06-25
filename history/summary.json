@@ -24,9 +24,9 @@
     "url": "https://zsp1.luzdelsur.com.pe/ofvirtual/",
     "icon": "https://icons.duckduckgo.com/ip3/zsp1.luzdelsur.com.pe.ico",
     "slug": "lds-oficina-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1858,
     "timeMonth": 1582,
     "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-25": 0
+    }
   },
   {
     "name": "Plataforma Web",
