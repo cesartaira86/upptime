@@ -44,19 +44,19 @@
     "url": "https://ldsweb.luzdelsur.com.pe/Plataforma/PlataformaWeb",
     "icon": "https://icons.duckduckgo.com/ip3/ldsweb.luzdelsur.com.pe.ico",
     "slug": "plataforma-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1059,
-    "timeDay": 4397,
-    "timeWeek": 2107,
-    "timeMonth": 1681,
+    "timeDay": 2674,
+    "timeWeek": 1962,
+    "timeMonth": 1659,
     "timeYear": 1074,
     "dailyMinutesDown": {
-      "2024-06-26": 0,
+      "2024-06-26": 7,
       "2024-01-25": 56
     }
   }
